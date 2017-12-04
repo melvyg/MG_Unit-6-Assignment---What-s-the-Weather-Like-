@@ -1,1 +1,0 @@
-OWM_key = '90ae716c8d520ec3abade149f9b5ba47'
